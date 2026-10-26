@@ -1,0 +1,5 @@
+numpy>=1.24
+scipy>=1.10        # normal CDF/quantiles, scrambled Sobol' sequences (scipy.stats.qmc)
+pandas>=2.0
+matplotlib>=3.7
+tabulate>=0.9      # markdown tables in the summary
